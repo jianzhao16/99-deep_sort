@@ -1,0 +1,311 @@
+----------Splitting Operations (Penalty=5)----------
+T=25 Label=58
+T=26 Label=73
+T=27 Label=73
+----------False Negative Vertices (Penalty=10)----------
+T=0 GT_label=3
+T=20 GT_label=11
+T=21 GT_label=11
+T=22 GT_label=11
+T=23 GT_label=5
+T=23 GT_label=11
+T=24 GT_label=5
+T=24 GT_label=11
+T=26 GT_label=5
+T=32 GT_label=11
+T=33 GT_label=11
+T=34 GT_label=11
+----------False Positive Vertices (Penalty=1)----------
+T=1 Label=6
+T=1 Label=7
+T=2 Label=10
+T=3 Label=10
+T=3 Label=12
+T=3 Label=13
+T=4 Label=15
+T=4 Label=16
+T=4 Label=17
+T=5 Label=15
+T=5 Label=16
+T=5 Label=21
+T=5 Label=22
+T=6 Label=15
+T=6 Label=16
+T=6 Label=21
+T=7 Label=21
+T=8 Label=23
+T=9 Label=23
+T=10 Label=23
+T=10 Label=25
+T=10 Label=26
+T=11 Label=23
+T=11 Label=25
+T=11 Label=28
+T=11 Label=29
+T=12 Label=23
+T=12 Label=28
+T=12 Label=31
+T=13 Label=23
+T=13 Label=28
+T=13 Label=31
+T=13 Label=32
+T=13 Label=33
+T=14 Label=32
+T=14 Label=36
+T=14 Label=38
+T=15 Label=32
+T=15 Label=36
+T=15 Label=38
+T=15 Label=39
+T=15 Label=41
+T=15 Label=42
+T=15 Label=43
+T=16 Label=32
+T=16 Label=36
+T=16 Label=39
+T=16 Label=41
+T=16 Label=44
+T=16 Label=45
+T=16 Label=46
+T=17 Label=32
+T=17 Label=36
+T=17 Label=39
+T=17 Label=44
+T=17 Label=45
+T=17 Label=46
+T=17 Label=47
+T=17 Label=48
+T=17 Label=49
+T=18 Label=32
+T=18 Label=36
+T=18 Label=39
+T=18 Label=44
+T=18 Label=47
+T=18 Label=52
+T=18 Label=53
+T=19 Label=52
+T=19 Label=56
+T=19 Label=57
+T=19 Label=58
+T=20 Label=52
+T=20 Label=56
+T=20 Label=57
+T=20 Label=59
+T=20 Label=60
+T=21 Label=56
+T=21 Label=57
+T=21 Label=59
+T=21 Label=60
+T=21 Label=61
+T=21 Label=62
+T=22 Label=61
+T=22 Label=64
+T=22 Label=65
+T=22 Label=66
+T=22 Label=67
+T=23 Label=55
+T=23 Label=61
+T=23 Label=64
+T=23 Label=65
+T=23 Label=66
+T=23 Label=67
+T=24 Label=61
+T=24 Label=64
+T=24 Label=68
+T=24 Label=69
+T=24 Label=70
+T=25 Label=61
+T=25 Label=64
+T=25 Label=69
+T=25 Label=70
+T=26 Label=71
+T=26 Label=72
+T=27 Label=71
+T=27 Label=74
+T=27 Label=75
+T=27 Label=76
+T=27 Label=77
+T=28 Label=74
+T=28 Label=75
+T=28 Label=76
+T=28 Label=77
+T=28 Label=78
+T=29 Label=74
+T=29 Label=78
+T=29 Label=82
+T=30 Label=83
+T=30 Label=84
+T=30 Label=85
+T=30 Label=86
+T=30 Label=87
+T=31 Label=83
+T=31 Label=84
+T=31 Label=85
+T=31 Label=86
+T=32 Label=83
+T=32 Label=89
+T=32 Label=90
+T=32 Label=91
+T=33 Label=83
+T=33 Label=89
+T=33 Label=90
+T=33 Label=91
+T=33 Label=92
+T=33 Label=93
+T=34 Label=89
+T=34 Label=90
+T=34 Label=91
+T=34 Label=92
+T=34 Label=93
+T=34 Label=94
+T=34 Label=95
+T=35 Label=89
+T=35 Label=92
+T=35 Label=94
+T=36 Label=89
+T=36 Label=92
+T=36 Label=94
+T=36 Label=97
+T=36 Label=98
+T=36 Label=100
+T=37 Label=100
+T=37 Label=101
+T=37 Label=102
+T=37 Label=104
+T=38 Label=100
+T=38 Label=101
+T=38 Label=105
+T=38 Label=106
+T=38 Label=107
+T=38 Label=108
+T=38 Label=109
+T=38 Label=110
+T=38 Label=113
+T=39 Label=101
+T=39 Label=105
+T=39 Label=106
+T=39 Label=107
+T=39 Label=114
+T=39 Label=115
+T=39 Label=116
+T=39 Label=118
+T=40 Label=114
+T=40 Label=119
+T=40 Label=120
+T=40 Label=121
+T=40 Label=122
+T=40 Label=123
+T=40 Label=124
+T=40 Label=125
+T=40 Label=127
+T=41 Label=119
+T=41 Label=120
+T=41 Label=121
+T=41 Label=127
+T=41 Label=129
+T=41 Label=130
+T=41 Label=131
+T=41 Label=132
+T=41 Label=133
+T=42 Label=119
+T=42 Label=127
+T=42 Label=133
+T=42 Label=136
+T=43 Label=127
+T=43 Label=139
+T=43 Label=140
+T=43 Label=141
+T=44 Label=127
+T=44 Label=138
+T=44 Label=143
+T=44 Label=144
+T=44 Label=145
+T=44 Label=146
+T=44 Label=147
+T=44 Label=148
+T=45 Label=138
+T=45 Label=143
+T=45 Label=144
+T=45 Label=145
+T=45 Label=152
+T=45 Label=153
+T=45 Label=154
+T=45 Label=155
+T=45 Label=156
+T=45 Label=157
+T=45 Label=158
+T=46 Label=138
+T=46 Label=152
+T=46 Label=161
+T=47 Label=138
+T=47 Label=152
+T=47 Label=163
+T=47 Label=164
+T=47 Label=166
+----------Redundant Edges To Be Deleted (Penalty=1)----------
+[T=17 Label=50] -> [T=18 Label=51]
+----------Edges To Be Added (Penalty=1.5)----------
+[T=0 GT_label=3] -> [T=1 GT_label=3]
+[T=3 GT_label=3] -> [T=4 GT_label=3]
+[T=3 GT_label=5] -> [T=4 GT_label=5]
+[T=18 GT_label=5] -> [T=19 GT_label=5]
+[T=22 GT_label=5] -> [T=23 GT_label=5]
+[T=23 GT_label=5] -> [T=24 GT_label=5]
+[T=24 GT_label=5] -> [T=25 GT_label=5]
+[T=25 GT_label=5] -> [T=26 GT_label=5]
+[T=17 GT_label=9] -> [T=18 GT_label=9]
+[T=24 GT_label=10] -> [T=25 GT_label=10]
+[T=25 GT_label=10] -> [T=26 GT_label=10]
+[T=26 GT_label=10] -> [T=27 GT_label=10]
+[T=27 GT_label=10] -> [T=28 GT_label=10]
+[T=20 GT_label=11] -> [T=21 GT_label=11]
+[T=21 GT_label=11] -> [T=22 GT_label=11]
+[T=22 GT_label=11] -> [T=23 GT_label=11]
+[T=23 GT_label=11] -> [T=24 GT_label=11]
+[T=24 GT_label=11] -> [T=25 GT_label=11]
+[T=25 GT_label=11] -> [T=26 GT_label=11]
+[T=26 GT_label=11] -> [T=27 GT_label=11]
+[T=27 GT_label=11] -> [T=28 GT_label=11]
+[T=31 GT_label=11] -> [T=32 GT_label=11]
+[T=32 GT_label=11] -> [T=33 GT_label=11]
+[T=33 GT_label=11] -> [T=34 GT_label=11]
+[T=34 GT_label=11] -> [T=35 GT_label=11]
+[T=42 GT_label=11] -> [T=43 GT_label=11]
+----------Edges with Wrong Semantics (Penalty=1)----------
+[T=0 Label=2] -> [T=1 Label=8]
+[T=0 Label=3] -> [T=1 Label=9]
+[T=2 Label=4] -> [T=3 Label=11]
+[T=2 Label=8] -> [T=3 Label=14]
+[T=4 Label=19] -> [T=5 Label=20]
+[T=7 Label=14] -> [T=8 Label=24]
+[T=9 Label=24] -> [T=10 Label=27]
+[T=10 Label=27] -> [T=11 Label=30]
+[T=12 Label=18] -> [T=13 Label=34]
+[T=13 Label=34] -> [T=14 Label=37]
+[T=14 Label=35] -> [T=15 Label=40]
+[T=16 Label=30] -> [T=17 Label=50]
+[T=17 Label=50] -> [T=18 Label=54]
+[T=20 Label=54] -> [T=21 Label=63]
+[T=28 Label=80] -> [T=29 Label=81]
+[T=29 Label=63] -> [T=30 Label=88]
+[T=35 Label=95] -> [T=36 Label=96]
+[T=35 Label=79] -> [T=36 Label=99]
+[T=36 Label=88] -> [T=37 Label=103]
+[T=37 Label=103] -> [T=38 Label=111]
+[T=37 Label=99] -> [T=38 Label=112]
+[T=38 Label=111] -> [T=39 Label=117]
+[T=39 Label=112] -> [T=40 Label=126]
+[T=39 Label=100] -> [T=40 Label=128]
+[T=40 Label=126] -> [T=41 Label=134]
+[T=40 Label=128] -> [T=41 Label=135]
+[T=41 Label=134] -> [T=42 Label=137]
+[T=42 Label=117] -> [T=43 Label=142]
+[T=43 Label=142] -> [T=44 Label=149]
+[T=43 Label=137] -> [T=44 Label=150]
+[T=43 Label=135] -> [T=44 Label=151]
+[T=44 Label=149] -> [T=45 Label=159]
+[T=45 Label=150] -> [T=46 Label=160]
+[T=46 Label=159] -> [T=47 Label=162]
+[T=46 Label=151] -> [T=47 Label=165]
+=================================================================================
+TRA measure: 0.796926

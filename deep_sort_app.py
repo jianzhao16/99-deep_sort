@@ -126,6 +126,8 @@ def create_detections(detection_mat, frame_idx, min_height=0):
     return detection_list
 
 
+
+
 def run(sequence_dir, detection_file, output_file, min_confidence,
         nms_max_overlap, min_detection_height, max_cosine_distance,
         nn_budget, display):
@@ -200,7 +202,7 @@ def run(sequence_dir, detection_file, output_file, min_confidence,
 
     # Run tracker.
     if display:
-        visualizer = visualization.Visualization(seq_info, update_ms=5)
+        visualizer = visualization.Visualization(seq_info, update_ms=20)
     else:
         visualizer = visualization.NoVisualization(seq_info)
     visualizer.run(frame_callback)
@@ -256,8 +258,21 @@ def parse_args():
 
 
 if __name__ == "__main__":
-    args = parse_args()
+    # args = parse_args()
+    #
+    # run(
+    #     args.sequence_dir, args.detection_file, args.output_file,
+    #     args.min_confidence, args.nms_max_overlap, args.min_detection_height,
+    #     args.max_cosine_distance, args.nn_budget, args.display)
+
     run(
-        args.sequence_dir, args.detection_file, args.output_file,
-        args.min_confidence, args.nms_max_overlap, args.min_detection_height,
-        args.max_cosine_distance, args.nn_budget, args.display)
+        sequence_dir="/home/tony/data/gnntest/deepsort/MOT16/test/MOT16-06",
+        detection_file="./data/detections/MOT16_POI_test/MOT16-06.npy",
+        output_file="./output",  # or None if optional
+        min_confidence=0.3,
+        nms_max_overlap=1.0,  # or whatever default you're using
+        min_detection_height=0,
+        max_cosine_distance=0.2,  # common value
+        nn_budget=100,
+        display=True
+    )

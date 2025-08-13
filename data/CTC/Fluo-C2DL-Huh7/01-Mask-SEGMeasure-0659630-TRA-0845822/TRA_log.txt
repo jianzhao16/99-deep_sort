@@ -1,0 +1,1148 @@
+----------Splitting Operations (Penalty=5)----------
+T=0 Label=15
+T=0 Label=28
+T=0 Label=29
+T=1 Label=15
+T=1 Label=20
+T=1 Label=20
+T=1 Label=28
+T=1 Label=29
+T=1 Label=39
+T=2 Label=28
+T=2 Label=29
+T=2 Label=62
+T=3 Label=28
+T=3 Label=63
+T=3 Label=69
+T=4 Label=28
+T=4 Label=83
+T=4 Label=83
+T=4 Label=84
+T=5 Label=28
+T=5 Label=70
+T=5 Label=102
+T=5 Label=102
+T=5 Label=103
+T=6 Label=103
+T=6 Label=115
+T=6 Label=115
+T=6 Label=116
+T=7 Label=116
+T=7 Label=135
+T=8 Label=116
+T=8 Label=139
+T=9 Label=116
+T=9 Label=130
+T=9 Label=130
+T=10 Label=116
+T=10 Label=130
+T=10 Label=130
+T=10 Label=130
+T=11 Label=23
+T=11 Label=116
+T=11 Label=151
+T=11 Label=172
+T=12 Label=116
+T=12 Label=187
+T=13 Label=116
+T=13 Label=187
+T=13 Label=187
+T=14 Label=116
+T=14 Label=151
+T=14 Label=212
+T=15 Label=116
+T=15 Label=212
+T=15 Label=212
+T=16 Label=116
+T=16 Label=226
+T=16 Label=242
+T=17 Label=116
+T=17 Label=242
+T=17 Label=252
+T=18 Label=116
+T=18 Label=242
+T=18 Label=260
+T=19 Label=116
+T=19 Label=242
+T=19 Label=260
+T=20 Label=116
+T=20 Label=240
+T=20 Label=242
+T=20 Label=286
+T=21 Label=300
+T=21 Label=307
+T=22 Label=307
+T=22 Label=307
+T=22 Label=307
+T=22 Label=307
+T=22 Label=343
+T=22 Label=345
+T=23 Label=343
+T=23 Label=370
+T=23 Label=371
+T=24 Label=367
+T=24 Label=368
+T=24 Label=370
+T=24 Label=416
+T=24 Label=418
+T=25 Label=418
+T=25 Label=422
+T=25 Label=441
+T=26 Label=422
+T=26 Label=460
+T=26 Label=461
+T=27 Label=422
+T=27 Label=460
+T=27 Label=461
+T=28 Label=422
+T=28 Label=495
+T=28 Label=496
+T=29 Label=422
+T=29 Label=492
+T=29 Label=495
+T=29 Label=496
+----------False Negative Vertices (Penalty=10)----------
+T=0 GT_label=5
+T=0 GT_label=8
+----------False Positive Vertices (Penalty=1)----------
+T=0 Label=1
+T=0 Label=5
+T=0 Label=6
+T=0 Label=7
+T=0 Label=8
+T=0 Label=9
+T=0 Label=11
+T=0 Label=12
+T=0 Label=13
+T=0 Label=17
+T=0 Label=34
+T=0 Label=35
+T=0 Label=38
+T=1 Label=1
+T=1 Label=5
+T=1 Label=6
+T=1 Label=7
+T=1 Label=8
+T=1 Label=9
+T=1 Label=11
+T=1 Label=12
+T=1 Label=13
+T=1 Label=14
+T=1 Label=17
+T=1 Label=34
+T=1 Label=35
+T=1 Label=38
+T=1 Label=40
+T=1 Label=41
+T=1 Label=42
+T=1 Label=46
+T=2 Label=1
+T=2 Label=5
+T=2 Label=6
+T=2 Label=7
+T=2 Label=8
+T=2 Label=9
+T=2 Label=11
+T=2 Label=12
+T=2 Label=13
+T=2 Label=17
+T=2 Label=34
+T=2 Label=35
+T=2 Label=38
+T=2 Label=40
+T=2 Label=48
+T=2 Label=49
+T=2 Label=50
+T=2 Label=51
+T=2 Label=52
+T=2 Label=53
+T=2 Label=54
+T=2 Label=55
+T=2 Label=56
+T=3 Label=1
+T=3 Label=5
+T=3 Label=6
+T=3 Label=7
+T=3 Label=8
+T=3 Label=9
+T=3 Label=17
+T=3 Label=34
+T=3 Label=35
+T=3 Label=38
+T=3 Label=66
+T=3 Label=67
+T=3 Label=68
+T=4 Label=1
+T=4 Label=5
+T=4 Label=6
+T=4 Label=7
+T=4 Label=8
+T=4 Label=9
+T=4 Label=17
+T=4 Label=34
+T=4 Label=35
+T=4 Label=66
+T=4 Label=72
+T=4 Label=73
+T=4 Label=74
+T=4 Label=75
+T=4 Label=76
+T=4 Label=77
+T=4 Label=78
+T=4 Label=79
+T=4 Label=80
+T=4 Label=86
+T=5 Label=1
+T=5 Label=5
+T=5 Label=6
+T=5 Label=7
+T=5 Label=8
+T=5 Label=9
+T=5 Label=17
+T=5 Label=34
+T=5 Label=35
+T=5 Label=72
+T=5 Label=73
+T=5 Label=86
+T=5 Label=88
+T=5 Label=89
+T=5 Label=90
+T=5 Label=91
+T=5 Label=92
+T=5 Label=93
+T=5 Label=94
+T=5 Label=95
+T=5 Label=96
+T=5 Label=97
+T=5 Label=98
+T=5 Label=99
+T=6 Label=1
+T=6 Label=5
+T=6 Label=6
+T=6 Label=7
+T=6 Label=8
+T=6 Label=9
+T=6 Label=17
+T=6 Label=34
+T=6 Label=72
+T=6 Label=86
+T=6 Label=88
+T=6 Label=89
+T=6 Label=90
+T=6 Label=91
+T=6 Label=107
+T=6 Label=108
+T=6 Label=109
+T=6 Label=110
+T=6 Label=111
+T=6 Label=112
+T=6 Label=113
+T=6 Label=119
+T=7 Label=1
+T=7 Label=5
+T=7 Label=6
+T=7 Label=7
+T=7 Label=8
+T=7 Label=9
+T=7 Label=17
+T=7 Label=34
+T=7 Label=72
+T=7 Label=86
+T=7 Label=88
+T=7 Label=120
+T=7 Label=122
+T=7 Label=123
+T=7 Label=125
+T=7 Label=126
+T=7 Label=127
+T=7 Label=128
+T=7 Label=134
+T=8 Label=1
+T=8 Label=5
+T=8 Label=6
+T=8 Label=7
+T=8 Label=8
+T=8 Label=9
+T=8 Label=17
+T=8 Label=34
+T=8 Label=72
+T=8 Label=86
+T=8 Label=122
+T=8 Label=134
+T=8 Label=137
+T=8 Label=138
+T=8 Label=141
+T=8 Label=144
+T=9 Label=1
+T=9 Label=5
+T=9 Label=6
+T=9 Label=7
+T=9 Label=8
+T=9 Label=17
+T=9 Label=34
+T=9 Label=86
+T=9 Label=122
+T=9 Label=134
+T=9 Label=144
+T=9 Label=146
+T=9 Label=147
+T=9 Label=148
+T=9 Label=149
+T=9 Label=150
+T=10 Label=1
+T=10 Label=5
+T=10 Label=6
+T=10 Label=7
+T=10 Label=8
+T=10 Label=17
+T=10 Label=34
+T=10 Label=133
+T=10 Label=134
+T=10 Label=144
+T=10 Label=153
+T=10 Label=154
+T=10 Label=155
+T=10 Label=156
+T=10 Label=157
+T=10 Label=158
+T=10 Label=159
+T=10 Label=160
+T=10 Label=162
+T=10 Label=163
+T=10 Label=166
+T=11 Label=1
+T=11 Label=5
+T=11 Label=6
+T=11 Label=7
+T=11 Label=8
+T=11 Label=17
+T=11 Label=34
+T=11 Label=133
+T=11 Label=134
+T=11 Label=137
+T=11 Label=144
+T=11 Label=153
+T=11 Label=154
+T=11 Label=155
+T=11 Label=156
+T=11 Label=157
+T=11 Label=168
+T=11 Label=170
+T=12 Label=1
+T=12 Label=5
+T=12 Label=6
+T=12 Label=7
+T=12 Label=8
+T=12 Label=34
+T=12 Label=133
+T=12 Label=134
+T=12 Label=144
+T=12 Label=153
+T=12 Label=154
+T=12 Label=176
+T=12 Label=177
+T=12 Label=178
+T=12 Label=179
+T=12 Label=180
+T=12 Label=181
+T=12 Label=182
+T=12 Label=186
+T=13 Label=1
+T=13 Label=5
+T=13 Label=6
+T=13 Label=7
+T=13 Label=34
+T=13 Label=133
+T=13 Label=134
+T=13 Label=153
+T=13 Label=154
+T=13 Label=176
+T=13 Label=191
+T=13 Label=192
+T=13 Label=193
+T=13 Label=194
+T=13 Label=195
+T=13 Label=196
+T=13 Label=197
+T=13 Label=198
+T=13 Label=199
+T=13 Label=200
+T=13 Label=202
+T=13 Label=205
+T=14 Label=1
+T=14 Label=5
+T=14 Label=6
+T=14 Label=34
+T=14 Label=133
+T=14 Label=134
+T=14 Label=153
+T=14 Label=154
+T=14 Label=191
+T=14 Label=192
+T=14 Label=193
+T=14 Label=200
+T=14 Label=205
+T=14 Label=206
+T=14 Label=207
+T=14 Label=208
+T=14 Label=211
+T=15 Label=1
+T=15 Label=5
+T=15 Label=6
+T=15 Label=34
+T=15 Label=134
+T=15 Label=153
+T=15 Label=191
+T=15 Label=200
+T=15 Label=211
+T=15 Label=214
+T=15 Label=215
+T=15 Label=216
+T=15 Label=217
+T=15 Label=218
+T=15 Label=219
+T=15 Label=220
+T=15 Label=222
+T=15 Label=223
+T=15 Label=230
+T=16 Label=1
+T=16 Label=5
+T=16 Label=6
+T=16 Label=34
+T=16 Label=153
+T=16 Label=191
+T=16 Label=200
+T=16 Label=211
+T=16 Label=214
+T=16 Label=215
+T=16 Label=230
+T=16 Label=233
+T=16 Label=234
+T=16 Label=235
+T=16 Label=236
+T=16 Label=237
+T=16 Label=238
+T=17 Label=1
+T=17 Label=5
+T=17 Label=6
+T=17 Label=34
+T=17 Label=191
+T=17 Label=200
+T=17 Label=211
+T=17 Label=214
+T=17 Label=215
+T=17 Label=233
+T=17 Label=234
+T=17 Label=244
+T=17 Label=245
+T=17 Label=246
+T=17 Label=247
+T=17 Label=248
+T=17 Label=249
+T=17 Label=250
+T=17 Label=251
+T=17 Label=256
+T=18 Label=1
+T=18 Label=5
+T=18 Label=6
+T=18 Label=34
+T=18 Label=200
+T=18 Label=211
+T=18 Label=214
+T=18 Label=215
+T=18 Label=233
+T=18 Label=234
+T=18 Label=244
+T=18 Label=256
+T=18 Label=257
+T=18 Label=258
+T=18 Label=259
+T=19 Label=1
+T=19 Label=5
+T=19 Label=6
+T=19 Label=34
+T=19 Label=200
+T=19 Label=211
+T=19 Label=214
+T=19 Label=233
+T=19 Label=256
+T=19 Label=263
+T=19 Label=264
+T=20 Label=1
+T=20 Label=5
+T=20 Label=6
+T=20 Label=200
+T=20 Label=211
+T=20 Label=214
+T=20 Label=233
+T=20 Label=263
+T=20 Label=268
+T=20 Label=269
+T=20 Label=270
+T=20 Label=271
+T=20 Label=272
+T=20 Label=273
+T=20 Label=274
+T=20 Label=275
+T=20 Label=276
+T=20 Label=277
+T=20 Label=278
+T=20 Label=279
+T=20 Label=280
+T=20 Label=281
+T=20 Label=282
+T=20 Label=288
+T=20 Label=289
+T=20 Label=290
+T=20 Label=291
+T=20 Label=292
+T=20 Label=293
+T=20 Label=294
+T=21 Label=1
+T=21 Label=5
+T=21 Label=6
+T=21 Label=200
+T=21 Label=211
+T=21 Label=214
+T=21 Label=233
+T=21 Label=263
+T=21 Label=268
+T=21 Label=269
+T=21 Label=270
+T=21 Label=271
+T=21 Label=272
+T=21 Label=289
+T=21 Label=290
+T=21 Label=293
+T=21 Label=295
+T=21 Label=296
+T=21 Label=297
+T=21 Label=298
+T=21 Label=299
+T=21 Label=302
+T=21 Label=303
+T=21 Label=304
+T=21 Label=305
+T=21 Label=309
+T=21 Label=310
+T=21 Label=311
+T=21 Label=312
+T=22 Label=1
+T=22 Label=5
+T=22 Label=6
+T=22 Label=214
+T=22 Label=233
+T=22 Label=263
+T=22 Label=268
+T=22 Label=269
+T=22 Label=289
+T=22 Label=295
+T=22 Label=296
+T=22 Label=297
+T=22 Label=298
+T=22 Label=315
+T=22 Label=316
+T=22 Label=317
+T=22 Label=318
+T=22 Label=319
+T=22 Label=321
+T=22 Label=322
+T=22 Label=323
+T=22 Label=324
+T=22 Label=325
+T=22 Label=326
+T=22 Label=327
+T=22 Label=328
+T=22 Label=329
+T=22 Label=330
+T=22 Label=331
+T=22 Label=332
+T=22 Label=333
+T=22 Label=334
+T=22 Label=335
+T=22 Label=336
+T=22 Label=337
+T=22 Label=338
+T=22 Label=339
+T=22 Label=340
+T=22 Label=341
+T=22 Label=346
+T=22 Label=347
+T=22 Label=348
+T=22 Label=349
+T=22 Label=350
+T=23 Label=1
+T=23 Label=5
+T=23 Label=6
+T=23 Label=214
+T=23 Label=233
+T=23 Label=268
+T=23 Label=289
+T=23 Label=295
+T=23 Label=315
+T=23 Label=316
+T=23 Label=317
+T=23 Label=318
+T=23 Label=319
+T=23 Label=321
+T=23 Label=340
+T=23 Label=341
+T=23 Label=349
+T=23 Label=350
+T=23 Label=353
+T=23 Label=355
+T=23 Label=356
+T=23 Label=357
+T=23 Label=358
+T=23 Label=359
+T=23 Label=360
+T=23 Label=361
+T=23 Label=362
+T=23 Label=363
+T=23 Label=364
+T=23 Label=365
+T=23 Label=369
+T=23 Label=372
+T=23 Label=373
+T=23 Label=374
+T=23 Label=375
+T=23 Label=376
+T=23 Label=377
+T=24 Label=1
+T=24 Label=5
+T=24 Label=6
+T=24 Label=214
+T=24 Label=233
+T=24 Label=289
+T=24 Label=295
+T=24 Label=315
+T=24 Label=316
+T=24 Label=353
+T=24 Label=354
+T=24 Label=355
+T=24 Label=356
+T=24 Label=373
+T=24 Label=379
+T=24 Label=381
+T=24 Label=382
+T=24 Label=383
+T=24 Label=384
+T=24 Label=385
+T=24 Label=386
+T=24 Label=387
+T=24 Label=388
+T=24 Label=389
+T=24 Label=390
+T=24 Label=391
+T=24 Label=392
+T=24 Label=393
+T=24 Label=394
+T=24 Label=395
+T=24 Label=396
+T=24 Label=397
+T=24 Label=398
+T=24 Label=399
+T=24 Label=400
+T=24 Label=401
+T=24 Label=402
+T=24 Label=403
+T=24 Label=404
+T=24 Label=405
+T=24 Label=406
+T=24 Label=407
+T=24 Label=408
+T=24 Label=409
+T=24 Label=410
+T=24 Label=411
+T=24 Label=412
+T=24 Label=413
+T=24 Label=414
+T=24 Label=417
+T=24 Label=419
+T=25 Label=1
+T=25 Label=5
+T=25 Label=6
+T=25 Label=214
+T=25 Label=233
+T=25 Label=289
+T=25 Label=295
+T=25 Label=379
+T=25 Label=381
+T=25 Label=382
+T=25 Label=417
+T=25 Label=420
+T=25 Label=424
+T=25 Label=425
+T=25 Label=426
+T=25 Label=427
+T=25 Label=428
+T=25 Label=429
+T=25 Label=430
+T=25 Label=431
+T=25 Label=432
+T=25 Label=433
+T=25 Label=434
+T=25 Label=435
+T=25 Label=442
+T=25 Label=443
+T=26 Label=1
+T=26 Label=5
+T=26 Label=6
+T=26 Label=214
+T=26 Label=233
+T=26 Label=379
+T=26 Label=417
+T=26 Label=420
+T=26 Label=424
+T=26 Label=425
+T=26 Label=426
+T=26 Label=435
+T=26 Label=442
+T=26 Label=443
+T=26 Label=448
+T=26 Label=449
+T=26 Label=450
+T=26 Label=451
+T=26 Label=452
+T=26 Label=453
+T=26 Label=454
+T=26 Label=455
+T=26 Label=456
+T=26 Label=457
+T=26 Label=458
+T=27 Label=1
+T=27 Label=5
+T=27 Label=6
+T=27 Label=214
+T=27 Label=233
+T=27 Label=379
+T=27 Label=420
+T=27 Label=424
+T=27 Label=443
+T=27 Label=448
+T=27 Label=449
+T=27 Label=462
+T=27 Label=463
+T=27 Label=465
+T=27 Label=466
+T=27 Label=468
+T=27 Label=469
+T=27 Label=470
+T=27 Label=471
+T=27 Label=472
+T=27 Label=473
+T=27 Label=474
+T=27 Label=475
+T=27 Label=476
+T=27 Label=477
+T=27 Label=478
+T=27 Label=479
+T=27 Label=480
+T=27 Label=481
+T=27 Label=482
+T=27 Label=483
+T=27 Label=484
+T=27 Label=485
+T=27 Label=486
+T=27 Label=488
+T=27 Label=489
+T=27 Label=490
+T=28 Label=1
+T=28 Label=5
+T=28 Label=6
+T=28 Label=214
+T=28 Label=233
+T=28 Label=379
+T=28 Label=420
+T=28 Label=448
+T=28 Label=449
+T=28 Label=462
+T=28 Label=463
+T=28 Label=465
+T=28 Label=466
+T=28 Label=468
+T=28 Label=469
+T=28 Label=470
+T=28 Label=471
+T=28 Label=472
+T=28 Label=473
+T=28 Label=474
+T=28 Label=482
+T=28 Label=483
+T=28 Label=484
+T=28 Label=486
+T=28 Label=490
+T=28 Label=493
+T=28 Label=497
+T=28 Label=498
+T=28 Label=499
+T=28 Label=500
+T=28 Label=502
+T=28 Label=503
+T=28 Label=504
+T=28 Label=505
+T=28 Label=506
+T=28 Label=507
+T=28 Label=508
+T=28 Label=509
+T=28 Label=510
+T=28 Label=511
+T=29 Label=1
+T=29 Label=5
+T=29 Label=6
+T=29 Label=214
+T=29 Label=233
+T=29 Label=379
+T=29 Label=420
+T=29 Label=448
+T=29 Label=449
+T=29 Label=462
+T=29 Label=463
+T=29 Label=465
+T=29 Label=466
+T=29 Label=468
+T=29 Label=493
+T=29 Label=497
+T=29 Label=512
+T=29 Label=513
+T=29 Label=514
+T=29 Label=515
+T=29 Label=516
+T=29 Label=517
+T=29 Label=518
+T=29 Label=519
+T=29 Label=520
+T=29 Label=521
+T=29 Label=523
+T=29 Label=524
+T=29 Label=525
+T=29 Label=526
+T=29 Label=527
+T=29 Label=528
+T=29 Label=529
+T=29 Label=530
+T=29 Label=531
+T=29 Label=532
+T=29 Label=533
+T=29 Label=534
+----------Redundant Edges To Be Deleted (Penalty=1)----------
+[T=11 Label=173] -> [T=12 Label=188]
+----------Edges To Be Added (Penalty=1.5)----------
+[T=0 GT_label=5] -> [T=1 GT_label=5]
+[T=1 GT_label=5] -> [T=2 GT_label=5]
+[T=2 GT_label=5] -> [T=3 GT_label=5]
+[T=10 GT_label=5] -> [T=11 GT_label=5]
+[T=11 GT_label=5] -> [T=12 GT_label=5]
+[T=10 GT_label=6] -> [T=11 GT_label=6]
+[T=11 GT_label=6] -> [T=12 GT_label=6]
+[T=0 GT_label=8] -> [T=1 GT_label=8]
+[T=1 GT_label=8] -> [T=2 GT_label=8]
+[T=2 GT_label=8] -> [T=3 GT_label=8]
+[T=0 GT_label=9] -> [T=1 GT_label=9]
+[T=1 GT_label=9] -> [T=2 GT_label=9]
+[T=19 GT_label=15] -> [T=20 GT_label=15]
+[T=20 GT_label=15] -> [T=21 GT_label=15]
+[T=23 GT_label=15] -> [T=24 GT_label=15]
+[T=24 GT_label=15] -> [T=25 GT_label=15]
+[T=7 GT_label=16] -> [T=8 GT_label=16]
+[T=12 GT_label=16] -> [T=13 GT_label=16]
+[T=13 GT_label=16] -> [T=14 GT_label=16]
+[T=14 GT_label=16] -> [T=15 GT_label=16]
+[T=15 GT_label=16] -> [T=16 GT_label=16]
+[T=19 GT_label=16] -> [T=20 GT_label=16]
+[T=20 GT_label=16] -> [T=21 GT_label=16]
+[T=23 GT_label=16] -> [T=24 GT_label=16]
+[T=24 GT_label=16] -> [T=25 GT_label=16]
+[T=2 GT_label=17] -> [T=3 GT_label=17]
+[T=3 GT_label=17] -> [T=4 GT_label=17]
+[T=4 GT_label=17] -> [T=5 GT_label=17]
+[T=5 GT_label=17] -> [T=6 GT_label=17]
+[T=6 GT_label=17] -> [T=7 GT_label=17]
+[T=8 GT_label=17] -> [T=9 GT_label=17]
+[T=9 GT_label=17] -> [T=10 GT_label=17]
+[T=10 GT_label=17] -> [T=11 GT_label=17]
+[T=11 GT_label=17] -> [T=12 GT_label=17]
+[T=12 GT_label=17] -> [T=13 GT_label=17]
+[T=13 GT_label=17] -> [T=14 GT_label=17]
+[T=14 GT_label=17] -> [T=15 GT_label=17]
+[T=15 GT_label=17] -> [T=16 GT_label=17]
+[T=16 GT_label=17] -> [T=17 GT_label=17]
+[T=17 GT_label=17] -> [T=18 GT_label=17]
+[T=18 GT_label=17] -> [T=19 GT_label=17]
+[T=19 GT_label=17] -> [T=20 GT_label=17]
+[T=20 GT_label=17] -> [T=21 GT_label=17]
+[T=21 GT_label=17] -> [T=22 GT_label=17]
+[T=22 GT_label=17] -> [T=23 GT_label=17]
+[T=23 GT_label=17] -> [T=24 GT_label=17]
+[T=24 GT_label=17] -> [T=25 GT_label=17]
+[T=25 GT_label=17] -> [T=26 GT_label=17]
+[T=26 GT_label=17] -> [T=27 GT_label=17]
+[T=27 GT_label=17] -> [T=28 GT_label=17]
+[T=28 GT_label=17] -> [T=29 GT_label=17]
+[T=0 GT_label=18] -> [T=1 GT_label=18]
+[T=1 GT_label=18] -> [T=2 GT_label=18]
+[T=9 GT_label=18] -> [T=10 GT_label=18]
+[T=10 GT_label=18] -> [T=11 GT_label=18]
+[T=11 GT_label=18] -> [T=12 GT_label=18]
+[T=0 GT_label=20] -> [T=1 GT_label=20]
+[T=1 GT_label=20] -> [T=2 GT_label=20]
+[T=0 GT_label=21] -> [T=1 GT_label=21]
+[T=1 GT_label=21] -> [T=2 GT_label=21]
+[T=23 GT_label=22] -> [T=24 GT_label=22]
+[T=4 GT_label=24] -> [T=5 GT_label=24]
+[T=5 GT_label=24] -> [T=6 GT_label=24]
+[T=10 GT_label=24] -> [T=11 GT_label=24]
+[T=21 GT_label=24] -> [T=22 GT_label=24]
+[T=22 GT_label=24] -> [T=23 GT_label=24]
+[T=23 GT_label=24] -> [T=24 GT_label=24]
+[T=24 GT_label=24] -> [T=25 GT_label=24]
+[T=25 GT_label=24] -> [T=26 GT_label=24]
+[T=26 GT_label=24] -> [T=27 GT_label=24]
+[T=27 GT_label=24] -> [T=28 GT_label=24]
+[T=28 GT_label=24] -> [T=29 GT_label=24]
+[T=4 GT_label=25] -> [T=5 GT_label=25]
+[T=5 GT_label=25] -> [T=6 GT_label=25]
+[T=21 GT_label=25] -> [T=22 GT_label=25]
+[T=22 GT_label=25] -> [T=23 GT_label=25]
+[T=23 GT_label=25] -> [T=24 GT_label=25]
+[T=24 GT_label=25] -> [T=25 GT_label=25]
+[T=25 GT_label=25] -> [T=26 GT_label=25]
+[T=26 GT_label=25] -> [T=27 GT_label=25]
+[T=27 GT_label=25] -> [T=28 GT_label=25]
+[T=28 GT_label=25] -> [T=29 GT_label=25]
+[T=0 GT_label=26] -> [T=1 GT_label=26]
+[T=1 GT_label=26] -> [T=2 GT_label=26]
+[T=2 GT_label=26] -> [T=3 GT_label=26]
+[T=3 GT_label=26] -> [T=4 GT_label=26]
+[T=4 GT_label=26] -> [T=5 GT_label=26]
+[T=5 GT_label=26] -> [T=6 GT_label=26]
+[T=6 GT_label=26] -> [T=7 GT_label=26]
+[T=7 GT_label=26] -> [T=8 GT_label=26]
+[T=8 GT_label=26] -> [T=9 GT_label=26]
+[T=9 GT_label=26] -> [T=10 GT_label=26]
+[T=10 GT_label=26] -> [T=11 GT_label=26]
+[T=11 GT_label=26] -> [T=12 GT_label=26]
+[T=12 GT_label=26] -> [T=13 GT_label=26]
+[T=13 GT_label=26] -> [T=14 GT_label=26]
+[T=14 GT_label=26] -> [T=15 GT_label=26]
+[T=15 GT_label=26] -> [T=16 GT_label=26]
+[T=16 GT_label=26] -> [T=17 GT_label=26]
+[T=17 GT_label=26] -> [T=18 GT_label=26]
+[T=18 GT_label=26] -> [T=19 GT_label=26]
+[T=19 GT_label=26] -> [T=20 GT_label=26]
+[T=20 GT_label=26] -> [T=21 GT_label=26]
+[T=21 GT_label=26] -> [T=22 GT_label=26]
+[T=22 GT_label=26] -> [T=23 GT_label=26]
+[T=23 GT_label=26] -> [T=24 GT_label=26]
+[T=24 GT_label=26] -> [T=25 GT_label=26]
+[T=25 GT_label=26] -> [T=26 GT_label=26]
+[T=26 GT_label=26] -> [T=27 GT_label=26]
+[T=27 GT_label=26] -> [T=28 GT_label=26]
+[T=28 GT_label=26] -> [T=29 GT_label=26]
+[T=0 GT_label=27] -> [T=1 GT_label=27]
+[T=1 GT_label=27] -> [T=2 GT_label=27]
+[T=2 GT_label=27] -> [T=3 GT_label=27]
+[T=3 GT_label=27] -> [T=4 GT_label=27]
+[T=4 GT_label=27] -> [T=5 GT_label=27]
+[T=5 GT_label=27] -> [T=6 GT_label=27]
+[T=6 GT_label=27] -> [T=7 GT_label=27]
+[T=7 GT_label=27] -> [T=8 GT_label=27]
+[T=8 GT_label=27] -> [T=9 GT_label=27]
+[T=9 GT_label=27] -> [T=10 GT_label=27]
+[T=10 GT_label=27] -> [T=11 GT_label=27]
+[T=11 GT_label=27] -> [T=12 GT_label=27]
+[T=12 GT_label=27] -> [T=13 GT_label=27]
+[T=13 GT_label=27] -> [T=14 GT_label=27]
+[T=14 GT_label=27] -> [T=15 GT_label=27]
+[T=15 GT_label=27] -> [T=16 GT_label=27]
+[T=16 GT_label=27] -> [T=17 GT_label=27]
+[T=17 GT_label=27] -> [T=18 GT_label=27]
+[T=18 GT_label=27] -> [T=19 GT_label=27]
+[T=19 GT_label=27] -> [T=20 GT_label=27]
+[T=20 GT_label=27] -> [T=21 GT_label=27]
+[T=21 GT_label=27] -> [T=22 GT_label=27]
+[T=22 GT_label=27] -> [T=23 GT_label=27]
+[T=23 GT_label=27] -> [T=24 GT_label=27]
+[T=24 GT_label=27] -> [T=25 GT_label=27]
+[T=25 GT_label=27] -> [T=26 GT_label=27]
+[T=26 GT_label=27] -> [T=27 GT_label=27]
+[T=27 GT_label=27] -> [T=28 GT_label=27]
+[T=28 GT_label=27] -> [T=29 GT_label=27]
+[T=9 GT_label=28] -> [T=15 GT_label=29]
+[T=0 GT_label=31] -> [T=1 GT_label=31]
+[T=1 GT_label=31] -> [T=2 GT_label=31]
+[T=2 GT_label=31] -> [T=3 GT_label=31]
+[T=3 GT_label=31] -> [T=4 GT_label=32]
+[T=4 GT_label=32] -> [T=5 GT_label=32]
+[T=5 GT_label=32] -> [T=6 GT_label=32]
+[T=6 GT_label=32] -> [T=7 GT_label=32]
+[T=7 GT_label=32] -> [T=8 GT_label=32]
+[T=8 GT_label=32] -> [T=9 GT_label=32]
+[T=9 GT_label=32] -> [T=10 GT_label=32]
+[T=10 GT_label=32] -> [T=11 GT_label=32]
+[T=11 GT_label=32] -> [T=12 GT_label=32]
+[T=12 GT_label=32] -> [T=13 GT_label=32]
+[T=13 GT_label=32] -> [T=14 GT_label=32]
+[T=14 GT_label=32] -> [T=15 GT_label=32]
+[T=15 GT_label=32] -> [T=16 GT_label=32]
+[T=16 GT_label=32] -> [T=17 GT_label=32]
+[T=17 GT_label=32] -> [T=18 GT_label=32]
+[T=18 GT_label=32] -> [T=19 GT_label=32]
+[T=19 GT_label=32] -> [T=20 GT_label=32]
+[T=20 GT_label=32] -> [T=21 GT_label=32]
+[T=21 GT_label=32] -> [T=22 GT_label=32]
+[T=22 GT_label=32] -> [T=23 GT_label=32]
+[T=23 GT_label=32] -> [T=24 GT_label=32]
+[T=24 GT_label=32] -> [T=25 GT_label=32]
+[T=25 GT_label=32] -> [T=26 GT_label=32]
+[T=26 GT_label=32] -> [T=27 GT_label=32]
+[T=27 GT_label=32] -> [T=28 GT_label=32]
+[T=28 GT_label=32] -> [T=29 GT_label=32]
+[T=3 GT_label=31] -> [T=4 GT_label=34]
+[T=4 GT_label=34] -> [T=5 GT_label=34]
+[T=5 GT_label=34] -> [T=6 GT_label=34]
+[T=6 GT_label=34] -> [T=7 GT_label=34]
+[T=7 GT_label=34] -> [T=8 GT_label=34]
+[T=8 GT_label=34] -> [T=9 GT_label=34]
+[T=9 GT_label=34] -> [T=10 GT_label=34]
+[T=10 GT_label=34] -> [T=11 GT_label=34]
+[T=21 GT_label=34] -> [T=22 GT_label=34]
+[T=22 GT_label=34] -> [T=23 GT_label=34]
+[T=27 GT_label=34] -> [T=28 GT_label=34]
+[T=0 GT_label=36] -> [T=1 GT_label=36]
+[T=1 GT_label=36] -> [T=2 GT_label=36]
+[T=2 GT_label=36] -> [T=3 GT_label=36]
+[T=3 GT_label=36] -> [T=4 GT_label=36]
+[T=4 GT_label=36] -> [T=5 GT_label=36]
+[T=5 GT_label=36] -> [T=6 GT_label=36]
+[T=6 GT_label=36] -> [T=7 GT_label=36]
+[T=10 GT_label=36] -> [T=11 GT_label=36]
+[T=11 GT_label=36] -> [T=12 GT_label=36]
+[T=13 GT_label=36] -> [T=14 GT_label=36]
+[T=14 GT_label=36] -> [T=15 GT_label=36]
+[T=15 GT_label=36] -> [T=16 GT_label=36]
+[T=16 GT_label=36] -> [T=17 GT_label=36]
+[T=17 GT_label=36] -> [T=18 GT_label=36]
+[T=18 GT_label=36] -> [T=19 GT_label=36]
+[T=19 GT_label=36] -> [T=20 GT_label=36]
+[T=20 GT_label=36] -> [T=21 GT_label=36]
+[T=21 GT_label=36] -> [T=22 GT_label=36]
+[T=22 GT_label=36] -> [T=23 GT_label=36]
+[T=23 GT_label=36] -> [T=24 GT_label=36]
+[T=24 GT_label=36] -> [T=25 GT_label=36]
+[T=28 GT_label=36] -> [T=29 GT_label=36]
+[T=0 GT_label=37] -> [T=1 GT_label=37]
+[T=1 GT_label=37] -> [T=2 GT_label=37]
+[T=2 GT_label=37] -> [T=3 GT_label=37]
+[T=3 GT_label=37] -> [T=4 GT_label=37]
+[T=4 GT_label=37] -> [T=5 GT_label=37]
+[T=5 GT_label=37] -> [T=6 GT_label=37]
+[T=6 GT_label=37] -> [T=7 GT_label=37]
+[T=8 GT_label=37] -> [T=9 GT_label=37]
+[T=10 GT_label=37] -> [T=11 GT_label=37]
+[T=11 GT_label=37] -> [T=12 GT_label=37]
+[T=13 GT_label=37] -> [T=14 GT_label=37]
+[T=14 GT_label=37] -> [T=15 GT_label=37]
+[T=15 GT_label=37] -> [T=16 GT_label=37]
+[T=16 GT_label=37] -> [T=17 GT_label=37]
+[T=17 GT_label=37] -> [T=18 GT_label=37]
+[T=18 GT_label=37] -> [T=19 GT_label=37]
+[T=19 GT_label=37] -> [T=20 GT_label=37]
+[T=20 GT_label=37] -> [T=21 GT_label=37]
+[T=21 GT_label=37] -> [T=22 GT_label=37]
+[T=22 GT_label=37] -> [T=23 GT_label=37]
+[T=23 GT_label=37] -> [T=24 GT_label=37]
+[T=24 GT_label=37] -> [T=25 GT_label=37]
+[T=28 GT_label=37] -> [T=29 GT_label=37]
+----------Edges with Wrong Semantics (Penalty=1)----------
+[T=0 Label=25] -> [T=1 Label=43]
+[T=0 Label=27] -> [T=1 Label=44]
+[T=0 Label=37] -> [T=1 Label=45]
+[T=1 Label=19] -> [T=2 Label=59]
+[T=1 Label=21] -> [T=2 Label=61]
+[T=1 Label=44] -> [T=2 Label=63]
+[T=2 Label=32] -> [T=3 Label=70]
+[T=3 Label=59] -> [T=4 Label=81]
+[T=3 Label=43] -> [T=4 Label=82]
+[T=3 Label=36] -> [T=4 Label=85]
+[T=4 Label=61] -> [T=5 Label=87]
+[T=4 Label=18] -> [T=5 Label=100]
+[T=4 Label=81] -> [T=5 Label=101]
+[T=4 Label=85] -> [T=5 Label=104]
+[T=4 Label=71] -> [T=5 Label=105]
+[T=5 Label=105] -> [T=6 Label=106]
+[T=5 Label=100] -> [T=6 Label=114]
+[T=6 Label=64] -> [T=7 Label=121]
+[T=6 Label=45] -> [T=7 Label=124]
+[T=6 Label=16] -> [T=7 Label=129]
+[T=6 Label=118] -> [T=7 Label=132]
+[T=6 Label=33] -> [T=7 Label=133]
+[T=7 Label=136] -> [T=8 Label=140]
+[T=7 Label=82] -> [T=8 Label=142]
+[T=7 Label=31] -> [T=8 Label=143]
+[T=8 Label=143] -> [T=9 Label=145]
+[T=8 Label=131] -> [T=9 Label=151]
+[T=8 Label=104] -> [T=9 Label=152]
+[T=9 Label=117] -> [T=10 Label=161]
+[T=9 Label=60] -> [T=10 Label=164]
+[T=9 Label=22] -> [T=10 Label=165]
+[T=9 Label=132] -> [T=10 Label=167]
+[T=10 Label=129] -> [T=11 Label=171]
+[T=10 Label=167] -> [T=11 Label=174]
+[T=11 Label=173] -> [T=12 Label=175]
+[T=11 Label=165] -> [T=12 Label=183]
+[T=11 Label=166] -> [T=12 Label=189]
+[T=11 Label=142] -> [T=12 Label=190]
+[T=12 Label=184] -> [T=13 Label=201]
+[T=12 Label=174] -> [T=13 Label=203]
+[T=12 Label=152] -> [T=13 Label=204]
+[T=13 Label=185] -> [T=14 Label=210]
+[T=14 Label=114] -> [T=15 Label=213]
+[T=14 Label=171] -> [T=15 Label=224]
+[T=14 Label=210] -> [T=15 Label=225]
+[T=14 Label=203] -> [T=15 Label=227]
+[T=14 Label=190] -> [T=15 Label=228]
+[T=14 Label=204] -> [T=15 Label=229]
+[T=14 Label=189] -> [T=15 Label=231]
+[T=15 Label=24] -> [T=16 Label=232]
+[T=15 Label=201] -> [T=16 Label=239]
+[T=15 Label=229] -> [T=16 Label=241]
+[T=16 Label=231] -> [T=17 Label=243]
+[T=16 Label=227] -> [T=17 Label=253]
+[T=16 Label=228] -> [T=17 Label=254]
+[T=16 Label=241] -> [T=17 Label=255]
+[T=17 Label=253] -> [T=18 Label=261]
+[T=17 Label=255] -> [T=18 Label=262]
+[T=18 Label=262] -> [T=19 Label=265]
+[T=19 Label=26] -> [T=20 Label=266]
+[T=19 Label=254] -> [T=20 Label=267]
+[T=19 Label=101] -> [T=20 Label=283]
+[T=19 Label=164] -> [T=20 Label=284]
+[T=19 Label=188] -> [T=20 Label=285]
+[T=19 Label=261] -> [T=20 Label=287]
+[T=21 Label=283] -> [T=22 Label=314]
+[T=21 Label=313] -> [T=22 Label=320]
+[T=21 Label=306] -> [T=22 Label=342]
+[T=21 Label=30] -> [T=22 Label=344]
+[T=22 Label=58] -> [T=23 Label=351]
+[T=22 Label=284] -> [T=23 Label=366]
+[T=22 Label=342] -> [T=23 Label=367]
+[T=23 Label=224] -> [T=24 Label=378]
+[T=23 Label=285] -> [T=24 Label=380]
+[T=24 Label=225] -> [T=25 Label=421]
+[T=24 Label=344] -> [T=25 Label=423]
+[T=24 Label=366] -> [T=25 Label=436]
+[T=24 Label=415] -> [T=25 Label=437]
+[T=25 Label=183] -> [T=26 Label=445]
+[T=25 Label=239] -> [T=26 Label=446]
+[T=25 Label=133] -> [T=26 Label=447]
+[T=25 Label=437] -> [T=26 Label=459]
+[T=26 Label=436] -> [T=27 Label=464]
+[T=26 Label=438] -> [T=27 Label=467]
+[T=26 Label=440] -> [T=27 Label=487]
+[T=27 Label=439] -> [T=28 Label=491]
+[T=27 Label=487] -> [T=28 Label=492]
+[T=27 Label=444] -> [T=28 Label=501]
+[T=28 Label=459] -> [T=29 Label=522]
+=================================================================================
+TRA measure: 0.845822

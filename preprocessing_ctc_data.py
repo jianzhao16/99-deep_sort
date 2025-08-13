@@ -40,12 +40,12 @@ def convert_ctc_to_detections(seg_dir, output_csv):
 
 # === Config ===
 #dataset_name = 'Fluo-N2DH-SIM+'
-dataset_name = 'Fluo-C2DL-Huh7'
-#dataset_name = 'Fluo-C2DL-MSC'
+# dataset_name = 'Fluo-C2DL-Huh7'
+dataset_name = 'Fluo-C2DL-MSC'
 
 seq_num = '02'
 local_dir = 'data/CTC'
-seg_dir_set = f"{local_dir}/{dataset_name}/{seq_num}_Msk_CSTQ"
+seg_dir_set = f"{local_dir}/{dataset_name}/{seq_num}/"
 output_csv_set = f"{local_dir}/{dataset_name}/{seq_num}-detections.csv"
 
 # === Run ===
